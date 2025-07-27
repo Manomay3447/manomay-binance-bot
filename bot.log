@@ -1,0 +1,16 @@
+2025-07-27 14:40:30,886 [INFO] {'type': 'market', 'symbol': 'BTC', 'quantity': 1.0, 'side': 'buy', 'price': None, 'extra': {}}
+2025-07-27 14:41:38,634 [INFO] {'type': 'limit', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'sell', 'price': 2300.0, 'extra': {}}
+2025-07-27 14:44:08,693 [INFO] {'type': 'stop-limit', 'symbol': 'XRP', 'quantity': 100.0, 'side': 'buy', 'price': 220.0, 'extra': {'stop_price': 210.0}}
+2025-07-27 14:44:53,309 [INFO] {'type': 'oco', 'symbol': 'ETH', 'quantity': 1.0, 'side': 'buy', 'price': None, 'extra': {'take_profit': 1800.0, 'stop_loss': 1700.0}}
+2025-07-27 14:45:22,074 [INFO] {'type': 'twap', 'symbol': 'BTC', 'quantity': 0.2, 'side': 'sell', 'price': None, 'extra': {'interval': 3, 'slice': 1}}
+2025-07-27 14:45:25,077 [INFO] {'type': 'twap', 'symbol': 'BTC', 'quantity': 0.2, 'side': 'sell', 'price': None, 'extra': {'interval': 3, 'slice': 2}}
+2025-07-27 14:45:28,081 [INFO] {'type': 'twap', 'symbol': 'BTC', 'quantity': 0.2, 'side': 'sell', 'price': None, 'extra': {'interval': 3, 'slice': 3}}
+2025-07-27 14:45:31,085 [INFO] {'type': 'twap', 'symbol': 'BTC', 'quantity': 0.2, 'side': 'sell', 'price': None, 'extra': {'interval': 3, 'slice': 4}}
+2025-07-27 14:45:34,088 [INFO] {'type': 'twap', 'symbol': 'BTC', 'quantity': 0.2, 'side': 'sell', 'price': None, 'extra': {'interval': 3, 'slice': 5}}
+2025-07-27 14:46:02,643 [INFO] {'type': 'grid', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'buy', 'price': 2000.0, 'extra': {'grid_index': 1}}
+2025-07-27 14:46:02,643 [INFO] {'type': 'grid', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'buy', 'price': 2125.0, 'extra': {'grid_index': 2}}
+2025-07-27 14:46:02,643 [INFO] {'type': 'grid', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'buy', 'price': 2250.0, 'extra': {'grid_index': 3}}
+2025-07-27 14:46:02,643 [INFO] {'type': 'grid', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'buy', 'price': 2375.0, 'extra': {'grid_index': 4}}
+2025-07-27 14:46:02,643 [INFO] {'type': 'grid', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'buy', 'price': 2500.0, 'extra': {'grid_index': 5}}
+2025-07-27 17:07:20,107 [INFO] {'type': 'market', 'symbol': 'BTC', 'quantity': 1.0, 'side': 'buy', 'price': None, 'extra': {}}
+2025-07-27 17:07:50,127 [INFO] {'type': 'limit', 'symbol': 'ETH', 'quantity': 2.0, 'side': 'sell', 'price': 2300.0, 'extra': {}}

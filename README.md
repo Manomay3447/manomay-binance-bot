@@ -1,8 +1,10 @@
 #TRADING BOT CLI (SIMULATOR)
+
 A Command-Line Interface (CLI) simulator that mimics real-world trading behavior using various order types such as Market, Limit, Stop-Limit, OCO (One Cancels the Other), TWAP (Time-Weighted Average Price), and Grid trading.
 This tool is designed to help understand the internal logic of modern trading systems and strategies without needing a live API, real funds, or exchange integration.
 
 #PROJECT OVERVIEW
+
 This trading simulator supports:
 1.Basic orders (Market, Limit)	
 2.Advanced strategies (Stop-Limit, OCO, TWAP, Grid)
@@ -11,6 +13,7 @@ This trading simulator supports:
 5.Validation of input formats, side types, price ranges, and other critical fields
 
 #HOW TO RUN THE PROJECT:
+
 1.Navigate to the project directory:
 	cd trading_bot_cli
 	
@@ -61,8 +64,12 @@ This trading simulator supports:
 			cat bot.log
 
 #KEY FEATURES
+
 1.Pure Python, no external API or database dependency
+
 2.CLI-based, lightweight and portable
+
 3.Clean logging and modular structure
+
 4.Good for practicing logic of algorithmic/automated trading
 
